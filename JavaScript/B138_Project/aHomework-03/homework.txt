@@ -1,0 +1,18 @@
+Write a  program to print a multiplication table for a given number.
+Write a  program to calculate the sum of first n natural numbers.
+Write a  program to print all numbers between 1 and 100 that are divisible by both 3 and 5.
+Write a  program to find the sum of all even numbers between 1 and n.
+Write a  program to calculate the sum of squares of the first n natural numbers.
+Write a  program to find the greatest of three numbers.
+Write a  program to reverse a number.
+Write a  program to check if a number is a palindrome.
+Write a  program to calculate the factorial of a number.
+Write a  program to find the sum of all numbers divisible by 3 or 5 up to n.
+Write a  program to check if a year is a leap year.
+Write a  program to check if a number is prime or not.
+Write a  program to find all prime numbers between 1 and n.
+Write a  program to print the Fibonacci series up to n terms.
+Write a  program to check if a number is an Armstrong number.
+Write a  program to check if a number is perfect.
+Write a  program to find the greatest common divisor (GCD) of two numbers.
+Write a  program to check if two numbers are co-prime.

@@ -1,0 +1,15 @@
+{
+  "name": "b143_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Logan",
+  "license": "ISC",
+  "type":"module",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.3.0"
+  }
+}
